@@ -7,13 +7,13 @@
 
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.github.yannrichet</groupId>
+	<groupId>com.github.tamchow</groupId>
 	<artifactId>JMathPlot</artifactId>
 	<version>1.0.1</version>
 	<packaging>jar</packaging>
 	<name>jmathplot</name>
 
-	<url>https://github.com/yannrichet/jmathplot</url>
+	<url>https://github.com/tamchow/jmathplot</url>
 
 	<properties>
 	</properties>
